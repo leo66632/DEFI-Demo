@@ -1,0 +1,25 @@
+name,nativeToken,chainId,organization
+Ethereum,ETH,1,foundation of Ethereum
+Polygon,MATIC,137,polygon
+Boba,ETH,288,Boba L2
+Binance Smart Chain,BNB,56,Binance
+Avalanche,AVAX,43114,Avalanche
+Shiba Chain,SHIB,27,
+xDAI Chain,xDAI,100,xDAI
+Fantom Opera,FTM,250,Fantom
+Sakura,SKU,1022,clover
+Neon,NEON,245022934,NEON
+Arbitrum,AETH,42161,
+Polkadot,DOT,,Polkadot
+Cardano,ADA,,Cardano
+Solana,SOL,,Solana
+Singularity Zero Mainnet,ZERO,12052,Singularity
+Celo Mainnet,CELO,42220,Celo
+QuarkChain Mainnet Root,QKC,100000,QuarkChain
+Akroma,AKA,200625,Akroma
+Xerom,XERO,1313500,Xerom
+Neo,NEO,,
+Huobi ECO Chain,HECO,128,
+OKExChain,OEC,66,
+Optimistic Ethereum,OPTIMISTIC,10,
+NEO3,,,

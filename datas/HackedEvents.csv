@@ -1,0 +1,34 @@
+DEFIProtocol,hackedTime,chain,valueLost,valueReturned,reason
+Poly Network,8/9/2021,Ethereum,264127839.00,264127839.00,exploit
+Poly Network,8/9/2021,Binance Smart Chain,250102029.00,250102029.00,exploit
+Poly Network,8/9/2021,Polygon,85057567.00,85057567.00,exploit
+Boy X Highspeed,10/29/2021,Binance Smart Chain,139895140.00,,exploit
+Cream Finance,10/26/2021,Ethereum,130000000.00,,flash loan
+Cream Finance,8/30/2021,Ethereum,18800000.00,,exploit
+Compound Labs,11/25/2020,Ethereum,89000000.00,,exploit
+Compound Labs,9/29/2021,Ethereum,71101556.00,,exploit
+Venus,5/17/2021,Binance Smart Chain,77000000.00,,exploit
+EasyFi,4/18/2021,Ethereum,59000000.00,,exploit
+Uranium Finance,4/7/2021,Binance Smart Chain,1300000.00,,exploit
+Uranium Finance,4/27/2021,Binance Smart Chain,57200000.00,,exploit
+bZx,11/4/2021,Binance Smart Chain,47600000.00,,access control
+bZx,9/12/2020,Ethereum,8100000.00,8100000.00,exploit
+bZx,2/17/2020,Ethereum,665840.00,,flash loan
+bZx,2/14/2020,Ethereum,355880.00,,flash loan
+PancakeBunny,5/18/2021,Binance Smart Chain,45000000.00,100000.00,flash loan
+PancakeBunny,7/15/2021,Polygon,2395931.00,2395931.00,flash loan
+Alphahomora,2/12/2021,Ethereum,37500000.00,3700000.00,flash loan
+Vee Finance,9/20/2021,Avalanche,36000000.00,,exploit
+Spartan Protocol,5/1/2021,Binance Smart Chain,30500000.00,,flash loan
+Paid Network,3/4/2021,Ethereum,27418034.00,,exploit
+Lendf.me,4/18/2020,Ethereum,25236849.00,25236849.00,exploit
+Harvest,10/25/2020,Ethereum,24000000.00,2500000.00,flash loan
+xToken,5/11/2021,Ethereum,24000000.00,,flash loan
+xToken,8/28/2021,Ethereum,4500000.00,,flash loan
+Bancor,7/8/2018,Ethereum,23500000.00,,exploit
+Bancor,6/17/2020,Ethereum,135229.00,,exploit
+Popsicle Finance,8/2/2021,Ethereum,20500000.00,,exploit
+Pickle Finance,11/20/2020,Ethereum,19700000.00,,exploit
+Snowdog,11/25/2021,Avalanche,16484414.00,,access control
+Indexed Finance,10/13/2021,Ethereum,16000000.00,,exploit
+Rari Capital,5/7/2021,Ethereum,15723948.00,,flashloan
